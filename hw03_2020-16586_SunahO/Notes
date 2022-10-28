@@ -1,0 +1,25 @@
+1. Your program might be easier to read if you split the code inside the function run_all_test() 
+into several funtions. 
+It is easier for users to read through a shorter function.
+
+2. When running your program I got
+/*
+part1 test1 is passed 
+part1 test1 is passed 
+part1 test1 is passed 
+part2 test1 is passed 
+part2 test1 is passed 
+part2 test1 is passed 
+max func test is passed 
+max func test is passed 
+evaluation func test is passed 
+evaluation func test is passed 
+all_tests are passed
+*/
+The printed out messages confused me.
+
+I have some comments here:
++ Try to remove the printing code out of the for loop
++ Be careful about what you want to print on the screen:
+e.g, std::cout<<"part2 test1 is passed \n";
+
