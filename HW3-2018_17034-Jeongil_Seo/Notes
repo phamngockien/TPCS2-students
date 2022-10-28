@@ -1,0 +1,23 @@
+1. You have a typing error so that your program produces the following result for part 3:
+Vecter : y=(5,4,3,2,1,), x=2
+
+
+2. For example, if I don't have the Homework 3 file, how can I know what you did with this code?
+Thus, let's try to add a block comment like this
+/*
+Part 1: We will write a function with template to add two containters.
+Part 2: ....
+*/
+
+And finally, it would be great if you give the description of each function you write.
+For eg.,
+/*
+This function will ....
+Input(s):
+Output(s): 
+*/
+template <typename T> 
+T add_containers(const T &x, const T &y)
+{
+
+}
