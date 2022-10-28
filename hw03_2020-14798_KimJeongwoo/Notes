@@ -1,0 +1,19 @@
+1. It would be great if you give the description of each function you write.
+For eg.,
+/*
+This function will ....
+Input(s):
+Output(s): 
+*/
+template <typename T> 
+T sum(const T &a, const T &b)
+{
+
+}
+
+2. In part 3, you actually tested for std::vector<double>
+Be careful when we copy some lines of code.
+
+3. Your program might be easier to read if you split the code inside the function run_all_test() 
+into several funtions. 
+It is easier for users to read through a shorter function.
