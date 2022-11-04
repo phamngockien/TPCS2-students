@@ -1,0 +1,13 @@
+/*
+# THIS FOLDER INCLUDE A VERY SIMPLE PROGRAM 'to compare the plurality representation system & the proportional representation system in political election'
+## It shows how to structure a program to header (.hpp) and source (.cpp) files
+## The program seperate classes for reading from a file, writing to a file,
+## and a class for storing the data.
+
+### To compile the program, command:
+### g++ main.cpp File_Stream_Prog.cpp Constituency.cpp
+### this command will create an executable file in the src folder, for eg. a.out, a.exe
+
+### To run the program:
+./[executable_file_name] [/path/to/input_file] [/path/to/output_file]
+*/

@@ -1,0 +1,11 @@
+In Alpha, A is won!
+In Beta, A is won!
+In Gamma, B is won!
+In Delta, A is won!
+In Epsilon, B is won!
+In Zeta, A is won!
+
+the result of election in plurality representation system is
+A: 4, B: 2, C: 0
+If it was proportional representation system, the results would be
+A: 2, B: 3, C: 1
