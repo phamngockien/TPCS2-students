@@ -1,0 +1,6 @@
+Alpha 23 A A A A A A A A A B B B B B B B B C C C C C C
+Beta 24 A A A A A A A A A A A A B B B B B B B B C C C C
+Gamma 22 A A A A A A B B B B B B B B B B B C C C C C
+Delta 23 A A A A A A A A A A A A B B B B B B B B C C C
+Epsilon 21 A B B B B B B B B B B B C C C C C C C C C
+Zeta 22 A A A A A A A A A B B B B B B B B C C C C C
